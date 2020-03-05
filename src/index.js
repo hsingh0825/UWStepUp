@@ -9,7 +9,6 @@ ReactDOM.render(
     <Fragment>
         <NavBar />
         <DailyStretch />
-        <h>"Test"</h>
     </Fragment>,
     document.getElementById('root')
 );
